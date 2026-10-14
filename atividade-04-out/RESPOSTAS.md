@@ -2,7 +2,7 @@
 
 CEFET-MG Campus VIII – Varginha · Prof. Lázaro Eduardo da Silva · 14/10/2026
 
-**Aluno(a):** ______________________________
+**Aluno(a):** Ramon Oliveira Silva
 
 Os resultados numéricos abaixo foram gerados por `tdnn.py`. Em cada treinamento o gerador de
 números aleatórios é reiniciado com uma semente diferente (`default_rng(1)`, `(2)`, `(3)` para

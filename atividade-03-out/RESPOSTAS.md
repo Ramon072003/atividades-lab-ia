@@ -2,7 +2,7 @@
 
 CEFET-MG Campus VIII – Varginha · Prof. Lázaro Eduardo da Silva · 14/10/2026
 
-**Aluno(a):** ______________________________
+**Aluno(a):** Ramon Oliveira Silva
 
 Os resultados numéricos abaixo foram gerados por `mlp.py`. Os pesos iniciais são sorteados
 uma única vez no intervalo [0, 1) (`numpy.random.default_rng(1)`) e reutilizados nos dois
